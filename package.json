@@ -51,7 +51,7 @@
 		"ink-spinner": "^4.0.2",
 		"meow": "^9.0.0",
 		"puppeteer": "^9.1.1",
-		"react": "^16.8.0",
+		"react": "^17.0.2",
 		"zen-observable": "^0.8.15"
 	},
 	"devDependencies": {
